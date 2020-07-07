@@ -15,3 +15,8 @@
 
 一回できたので、二回目に挑戦。
 その際、以前作ったhtmlをコピペしてみた。
+
+
+git init  したから
+git remote add <name> <url>
+したからか？
